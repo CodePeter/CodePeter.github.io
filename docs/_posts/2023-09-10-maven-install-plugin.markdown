@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "maven-install-plugin"
-date:   2023-09-12 20:58:51 +0800
+date:   2023-09-10 20:58:51 +0800
 categories: maven plugin
 ---
 You have found a bug or you have an idea for a cool new feature? Contributing code is a great way to give something back to the open source community. Before you dig right into the code, there are a few guidelines that we need contributors to follow so that we can have a chance of keeping on top of things.
